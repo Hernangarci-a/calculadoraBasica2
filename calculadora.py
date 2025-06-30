@@ -12,6 +12,7 @@ while True:
             5- suma de tres valores
             6- potencia
             7- Salir
+            8- Caca
         """)
 
     valor = int(input("Elige una opcion: ") )     
